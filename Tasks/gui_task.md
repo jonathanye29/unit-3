@@ -107,9 +107,9 @@ Screen:
 
 ## Proof
 
-(![Screen Shot 2023-01-30 at 10 50 09 PM](https://user-images.githubusercontent.com/111751273/215495332-5162a622-ffe7-4a10-8e8d-0ced82a52813.png)
-(![Screen Shot 2023-01-30 at 10 51 15 PM](https://user-images.githubusercontent.com/111751273/215495581-503c8890-39f1-4d76-ae79-21e0379036dc.png)
-(![Screen Shot 2023-01-30 at 10 51 44 PM](https://user-images.githubusercontent.com/111751273/215495699-efd070e0-5643-430a-be75-d90486027d0b.png)
+![Screen Shot 2023-01-30 at 10 50 09 PM](https://user-images.githubusercontent.com/111751273/215495332-5162a622-ffe7-4a10-8e8d-0ced82a52813.png)
+![Screen Shot 2023-01-30 at 10 51 15 PM](https://user-images.githubusercontent.com/111751273/215495581-503c8890-39f1-4d76-ae79-21e0379036dc.png)
+![Screen Shot 2023-01-30 at 10 51 44 PM](https://user-images.githubusercontent.com/111751273/215495699-efd070e0-5643-430a-be75-d90486027d0b.png)
 
 
 # Task 2: Bit to Byte Converter
@@ -204,6 +204,6 @@ Screen:
 
 ## Proof
 
-(![Screen Shot 2023-01-30 at 11 34 06 PM](https://user-images.githubusercontent.com/111751273/215506009-102ad715-8aff-4c33-88b3-b58c32823922.png)
-(![Screen Shot 2023-01-30 at 11 45 53 PM](https://user-images.githubusercontent.com/111751273/215509054-fee1e2c9-bdd3-4a62-bca7-dbf0db46bef7.png)
-(![Screen Shot 2023-01-30 at 11 46 14 PM](https://user-images.githubusercontent.com/111751273/215509118-cfe0c4ca-6f81-499f-98ff-900fbd8cba8c.png)
+![Screen Shot 2023-01-30 at 11 34 06 PM](https://user-images.githubusercontent.com/111751273/215506009-102ad715-8aff-4c33-88b3-b58c32823922.png)
+![Screen Shot 2023-01-30 at 11 45 53 PM](https://user-images.githubusercontent.com/111751273/215509054-fee1e2c9-bdd3-4a62-bca7-dbf0db46bef7.png)
+![Screen Shot 2023-01-30 at 11 46 14 PM](https://user-images.githubusercontent.com/111751273/215509118-cfe0c4ca-6f81-499f-98ff-900fbd8cba8c.png)
