@@ -38,3 +38,8 @@ class AccountingProgram:
 ```
 
 <img width="1512" alt="Screen Shot 2023-02-05 at 4 06 47 PM" src="https://user-images.githubusercontent.com/111751273/216806335-f70317c2-0776-460a-bd99-83e78c750c0d.png">
+
+
+## UML Diagram
+![Quizzes-27](https://user-images.githubusercontent.com/111751273/216806659-84ddb719-9245-49f2-b613-d6629345e500.jpg)
+
