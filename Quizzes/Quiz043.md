@@ -3,7 +3,7 @@
 <img width="1034" alt="Screen Shot 2023-02-22 at 11 41 39 PM" src="https://user-images.githubusercontent.com/111751273/220655962-39f1355d-b231-4599-94ed-4c5892c0b97d.png">
 
 
-## Python
+## SQLite
 ```.sql
 CREATE table if not exists Movies(
     id INTEGER PRIMARY KEY,
